@@ -31,8 +31,8 @@ gRPC 是由谷歌提出并开发的 RPC 协议，gRPC 提供了一套机制，�
 [ClientGrpcBeepService](ClientGrpcBeepService.ts)  
 [ClientGrpcAdminService](ClientGrpcAdminService.ts)  
 [ClientGrpcPluginService](ClientGrpcPluginService.ts)  
-[ClientGrpcMessageService](ClientGrpcMessageService.ts.ts)  
-[ClientGrpcMessageService](taskQueue/brower/TaskQueueService.ts)  
+[ClientGrpcMessageService](ClientGrpcMessageService.ts)  
+[TaskQueueService](taskQueue/brower/TaskQueueService.ts)  
 [FileService](taskQueue/brower/FileService.ts)
 
 
